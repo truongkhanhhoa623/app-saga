@@ -1,0 +1,9 @@
+@baseUrl = http://js-post-api.herokuapp.com/api
+
+# city
+
+# @name getAllCities
+POST https://task.yoot.vn/api/Login/Index
+Authorization: "lAHbdymsquvmIrSkb00FGJ72UWj7tvr1"
+
+ 

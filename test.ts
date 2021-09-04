@@ -1,0 +1,1 @@
+const vadr: string = "string"

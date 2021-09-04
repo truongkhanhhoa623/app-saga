@@ -1,0 +1,16 @@
+.admin-layout{
+    background: rgb(241, 238, 238);
+    min-height: 100vh;
+    &__header{
+        background:rgb(104, 166, 224)
+    }
+    &__body{
+        margin-top: 10px;
+    }
+    &__sitebar{
+        
+    }
+    &__main{
+
+    }
+}

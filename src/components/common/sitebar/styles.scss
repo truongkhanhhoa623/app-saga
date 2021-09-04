@@ -1,0 +1,17 @@
+
+.sitebar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    &__link{
+        width: 100%;
+        line-height: 50px;
+        text-align: center;
+        margin: 2px auto;
+        text-decoration: none;
+        color: black
+    }
+    .active{
+        background-color: rgba(0,0,0,0.05)
+    }
+}
